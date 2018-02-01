@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="全部笔记" android:id="@+id/mn_note" android:checked="true"  android:icon="@mipmap/ic_note"/>
+    <item android:title="笔记本" android:id="@+id/mn_notebook"  android:icon="@mipmap/ic_notebook"/>
+
+</menu>
